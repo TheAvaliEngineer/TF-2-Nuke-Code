@@ -80,7 +80,7 @@ void function DoNuclearExplosion( entity projectile ) {
 			0, 													// distanceFromAttacker
 			0, 													// explosionForce
 			0,													// damage flags
-			eDamageSourceId.tarmory_mortartone_nuclearstrike	// damage source id
+			eDamageSourceId.tarmory_mortartone_nuclearstrike	// damage source id goes here TODO
 		)
 
 		wait explosionInterval
