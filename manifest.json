@@ -1,6 +1,6 @@
 {
     "name": "NuclearExplosionScript",
-    "version_number": "1.1.2",
+    "version_number": "1.1.3",
     "website_url": "https://github.com/TheAvaliEngineer/TF-2-Nuke-Code",
     "description": "Mod that allows projectiles to trigger nuclear explosions.",
     "dependencies": [
